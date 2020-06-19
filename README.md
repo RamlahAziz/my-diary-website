@@ -1,8 +1,7 @@
 # my-diary-website
 A web application designed using html and css for its users to maintain a daily diary and publishing the entries as blogs.
 ## Screenshots
-<img src="https://github.com/RamlahAziz/my-diary-website/blob/master/images/home.png" width="350">
-<img src="https://github.com/RamlahAziz/my-diary-website/blob/master/images/logon.png" width="350">
+<img src="https://github.com/RamlahAziz/my-diary-website/blob/master/images/home.png" width="350"><img src="https://github.com/RamlahAziz/my-diary-website/blob/master/images/logon.png" width="350">
 <img src="https://github.com/RamlahAziz/my-diary-website/blob/master/images/settings.png" width="350">
 <img src="https://github.com/RamlahAziz/my-diary-website/blob/master/images/contact-us.png" width="350">
 <img src="https://github.com/RamlahAziz/my-diary-website/blob/master/images/about.png" width="350">
